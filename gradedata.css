@@ -1,0 +1,108 @@
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  width:60%;
+  padding-top: 0px;
+}
+
+ul.share-buttons li{
+  display: inline;
+  padding: 1%;
+  margin-top: 1%;
+}
+
+ul.share-buttons img{
+  width: 32px;
+}
+#buttons{
+	text-align:right;
+}
+#emerald{
+	width: 33px;
+	height:33px;
+}
+
+
+#twitter{
+	width: 60px;
+	height: 60px;
+}
+
+#facebook{
+	width: 35px;
+	height: 35px;
+}
+
+#twitter:hover {
+    -webkit-filter: brightness(150%);
+}
+
+ul.share-buttons img:hover{
+  -webkit-filter: brightness(150%);
+}
+
+header h1{
+	color: #000000;
+	font-family: 'Exo', sans-serif;
+	font-size:70px;
+	font-weight:bold;
+}
+header h3{
+	color: #000000;
+	font-family: 'Exo', sans-serif;
+	font-size:16px;
+	
+}
+div{
+	
+
+}
+
+.jumbotron{
+	background-image:url("emeraldGradeDataDoodle.png");
+	background-image:contain;
+	opacity:.7;
+	background-color:#000000;
+	
+	font-family: 'Exo', sans-serif;
+	
+	font-size: 20px;
+}
+
+.jumbotron label{
+	
+	
+}
+
+ #calc{
+	background-color:#000000;
+	/*opacity:.99;*/
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-top: 20px;
+	border-radius: 15px;
+	color: #ffffff;
+}
+
+.jumbotron select{
+	color: #000000;
+	opacity:1;
+	
+}
+
+.jumbotron input{
+	color:#000000;
+	opacity:1;
+	
+}
+
+.jumbotron button{
+	color:#000000;
+	opacity:1;
+
+}
+.grade_results{
+	
+}
